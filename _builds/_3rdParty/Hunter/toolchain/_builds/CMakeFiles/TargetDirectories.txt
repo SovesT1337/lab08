@@ -1,2 +1,0 @@
-/home/sovest/SovesT1337/workspace/projects/lab07/_builds/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
-/home/sovest/SovesT1337/workspace/projects/lab07/_builds/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
